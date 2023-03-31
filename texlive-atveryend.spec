@@ -1,6 +1,6 @@
 Name:		texlive-atveryend
 Version:	53108
-Release:	1
+Release:	2
 Summary:	Hooks at the very end of a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/atveryend
