@@ -3,7 +3,7 @@ Version:	71991
 Release:	1
 Summary:	Hooks at the very end of a document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/atveryend
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/atveryend
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/atveryend.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/atveryend.doc.r%{version}.tar.xz
