@@ -1,5 +1,5 @@
 Name:		texlive-atveryend
-Version:	71991
+Version:	72507
 Release:	1
 Summary:	Hooks at the very end of a document
 Group:		Publishing
